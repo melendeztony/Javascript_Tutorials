@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    var girl = "Karina";        // Global Variable
+
+    function whatever(){
+        document.write(girl);
+        var boy = "Tony";       // Local Variable
+        document.write(boy);
+    }
+
+    whatever();
+    document.write(girl);
+    document.write(boy); //can't be used not a global variable
+</script>
+
+</body>
+</html>
