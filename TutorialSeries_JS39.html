@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+
+    </script>
+</head>
+<body>
+
+<form name="TonysForm">
+    <input type="checkbox" name="thebox" />
+    <input type="button" value="Press Me!" onclick="validator()" />
+
+</form>
+
+<script type="text/javascript">
+    function validator(){
+        if (document.TonysForm.thebox.checked)
+            alert("Yes its checked");
+        else
+            alert("Not Checked");
+    }
+
+
+</script>
+
+</body>
+</html>
