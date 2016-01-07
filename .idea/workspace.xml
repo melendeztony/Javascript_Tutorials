@@ -11,27 +11,13 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/TimeCalculator/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/TimeCalculator/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/TimeCalculator/TimeCalc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS28.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS29.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS30.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS31.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS32.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS33.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS35.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS36.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS37.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS38.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS39.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TutorialSeries_JS40.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialSeries_23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TutorialSeries34.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/git.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" />
       <change type="MODIFICATION" beforePath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HTML5_Tutorial_Series/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../HTML5_Tutorial_Series/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../HTML5_Tutorial_Series/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../HTML5_Tutorial_Series/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript_Tutorials.iws" />
     <ignored path=".idea/workspace.xml" />
